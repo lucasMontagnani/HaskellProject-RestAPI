@@ -14,7 +14,7 @@ Calculate and display final (harmonic) average and grades
 Real-time data updates
 
 ### 📷 View
-<img src="/assets/images/projetoHaskellCaptura.png"/>
+<img src="/assets/images/projetoHaskellCaptura.PNG"/>
 
 ### 🛠️ Installation/Prerequisites
 
