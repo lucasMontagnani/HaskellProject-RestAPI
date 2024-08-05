@@ -27,8 +27,8 @@ This project is a full-stack application built in Haskell, featuring both a fron
 
 To run this project, you need to have the following tools installed:
 
-Haskell Stack: The build tool for Haskell projects.
-Installation guide: Haskell Stack
+- **Haskell Stack**: The build tool for Haskell projects.
+  - Installation guide: [Haskell Stack](https://docs.haskellstack.org/en/stable/README/)
 
 ### 📜 Usage
 
