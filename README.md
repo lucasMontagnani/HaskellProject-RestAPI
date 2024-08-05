@@ -23,7 +23,7 @@ To run this project, you need to have the following tools installed:
 Haskell Stack: The build tool for Haskell projects.
 Installation guide: Haskell Stack
 
-###📜 Usage
+### 📜 Usage
 
 Start the Backend:
 
