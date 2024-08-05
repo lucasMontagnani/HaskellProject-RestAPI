@@ -1,0 +1,42 @@
+name:                projetoHaskellFront
+version:             0.1.0.0
+-- synopsis:
+-- description:
+homepage:            https://github.com/githubuser/projetoHaskellFront#readme
+license:             BSD3
+license-file:        LICENSE
+author:              Author name here
+maintainer:          example@example.com
+copyright:           2023 Author name here
+category:            Web
+build-type:          Simple
+cabal-version:       >=1.10
+extra-source-files:  README.md
+                     CHANGELOG.md
+
+executable projetoHaskellFront
+  hs-source-dirs:      src
+  main-is:             Main.hs
+  default-language:    Haskell2010
+  build-depends:       base >= 4.7 && < 5,
+                        http-client,
+                          http-types,
+                          bytestring,
+                          Spock,
+                          http-types,
+                          text,
+                          mtl,
+                          lucid >= 2.9 && < 3,
+                          http-conduit >= 2.3 && < 3,
+                          aeson,
+                          blaze-html,
+                          blaze-markup
+  ghc-options:         -Wall
+                       -Wcompat
+                       -Widentities
+                       -Wincomplete-record-updates
+                       -Wincomplete-uni-patterns
+                       -Wmissing-export-lists
+                       -Wmissing-home-modules
+                       -Wpartial-fields
+                       -Wredundant-constraints
