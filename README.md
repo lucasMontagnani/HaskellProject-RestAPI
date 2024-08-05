@@ -2,7 +2,7 @@
 
 This project is a full-stack application built in Haskell, featuring both a frontend and a backend. The backend is a REST API server that manages student data, while the frontend is a web application that interacts with the backend to display and manage student information.
 
-###⚙️ Features
+### ⚙️ Features
 
 Backend REST API for managing student data
 Create, delete, and list students
@@ -22,6 +22,7 @@ To run this project, you need to have the following tools installed:
 
 Haskell Stack: The build tool for Haskell projects.
 Installation guide: Haskell Stack
+
 ###📜 Usage
 
 Start the Backend:
@@ -36,7 +37,8 @@ Navigate to the frontend directory.
 Execute stack run.
 The application will be ready when you see: Spock is running on port 8081.
 Access the application at: http://localhost:8081/.
-###📆 Future Work
+
+### 📆 Future Work
 
 Upcoming contributions (enhancements and fixes) for this project:
 
