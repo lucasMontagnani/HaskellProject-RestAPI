@@ -4,14 +4,20 @@ This project is a full-stack application built in Haskell, featuring both a fron
 
 ### ⚙️ Features
 <ul>
-<li>Backend REST API for managing student data</li>
-<li>Create, delete, and list students</li>
-<li>Data stored in-memory using IORef</li>
-<li>Frontend web application</li>
-<li>Fetch and display student data from the backend API</li>
-<li>Add and delete students</li>
-<li>Calculate and display final (harmonic) average and grades</li>
-<li>Real-time data updates</li>
+  <li>Backend REST API for managing student data
+    <ul>
+      <li>Create, delete, and list students</li>
+      <li>Data stored in-memory using IORef</li>
+    </ul>
+  </li>
+  <li>Frontend web application
+    <ul>
+      <li>Fetch and display student data from the backend API</li>
+      <li>Add and delete students</li>
+      <li>Calculate and display final (harmonic) average and grades</li>
+      <li>Real-time data updates</li>
+    </ul>
+  </li>
 </ul>
 
 ### 📷 View
